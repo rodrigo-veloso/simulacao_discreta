@@ -1,24 +1,24 @@
 # importando bibliotecas e pacotes
 import streamlit as st
 import pandas as pd
-import numpy as np
-import scipy.stats as sct
+#import numpy as np
+#import scipy.stats as sct
 from math import sqrt
-import matplotlib.pyplot as plt
-import seaborn as sns
+#import matplotlib.pyplot as plt
+#import seaborn as sns
 #import statistics as st
 
 import logging
 import random
 #import statistics
-from dataclasses import dataclass
+#from dataclasses import dataclass
 from datetime import timedelta
-from itertools import groupby, product
+#from itertools import groupby, product
 import math
 import simpy
 
 #Bibliotecas de visualização de imagem
-from PIL import Image
+#from PIL import Image
 
 # configuração para não exibir os warnings
 import warnings
